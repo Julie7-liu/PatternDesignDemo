@@ -1,4 +1,4 @@
-package main.java.designpattern;
+package main.java.designpattern.simplefactory;
 
 public class SubOperator extends Operator{
   public double cal(double n1, double n2){
